@@ -1,0 +1,35 @@
+
+.logo{
+    width: 150px;
+    height: 80px;
+    margin-left: 50px;
+}
+.htext{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-size: medium;
+    cursor: pointer;
+}
+.cardpic{
+    height:300px;
+    width:auto;
+}
+.carosalpic{
+    width: auto;
+    height: auto;
+}
+
+.subform{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    text-align: center;
+    color: #ff496a;
+    font-weight: bold;
+}
+.footerfont{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+
+.cardpic3{
+    height:250px;
+    width:auto;
+
+}
